@@ -1,3 +1,4 @@
+discarded due to issues
 # Lectio to Google Calendar Sync App
 
 Mobile-first, continuous schedule sync between Lectio (using MitID web login) and Google Calendar, with share features.
@@ -17,6 +18,4 @@ Mobile-first, continuous schedule sync between Lectio (using MitID web login) an
 - Google Calendar API integration
 - MitID authentication system
 
-## Getting Started
 
-*Coming soon - setup and installation instructions*
